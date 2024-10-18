@@ -35,15 +35,7 @@
     />
     <link
       rel="stylesheet"
-      href="https://app.taggbox.com/web-admin/assets/css/custom/introjs.css"
-    />
-    <link
-      rel="stylesheet"
       href="https://app.taggbox.com/web-admin/assets/css/app/bootstrap-datetimepicker.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://app.taggbox.com/web-admin/assets/css/app/uppy.bundle.css"
     />
     <link
       rel="stylesheet"
@@ -227,17 +219,9 @@
     ></script>
     <script
       type="text/javascript"
-      src="https://app.taggbox.com/web-admin/assets/js/app/jquery.minicolors.min.js"
-    ></script>
-    <script
-      type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0iH8uH6vpABk73L7sd8Kn-5B7q9SthTg&libraries=places"
     ></script>
-    <script
-      type="text/javascript"
-      src="https://app.taggbox.com/web-admin/assets/js/app/bootbox.min.js?v=1.0.2"
-    ></script>
-    <script defer="defer" src="/static/js/main.e652da4c.js"></script>
+    <script defer="defer" src="/static/js/main.b2870a17.js"></script>
     <link href="/static/css/main.5ee9f2ac.css" rel="stylesheet" />
   </head>
   <body
@@ -266,30 +250,6 @@
     )).replace('"{', "{")).replace('}"', "}");
     var session = JSON.parse(jsonData),
       userKey =
-        "YTo1Mjp7czoyOiJpZCI7czo1OiI5MDkyNSI7czo1OiJvd25lciI7czo1OiI5MDkyNSI7czo5OiJjcmVhdGVkQnkiO3M6MToiMCI7czo5OiJjcmVhdGVkQXQiO3M6MTA6IjE2NzE2MDc1NjMiO3M6NzoiY3JlYXRlZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjowMyI7czo4OiJ2ZXJpZmllZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjoxMiI7czo5OiJ1cGRhdGVkQnkiO3M6MToiMCI7czo5OiJ1cGRhdGVkQXQiO3M6MTA6IjE2NzE2MDc1NjMiO3M6MTA6Im1vZGlmaWVkQnkiO3M6MToiMCI7czo4OiJtb2RpZmllZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjowMyI7czoxNzoibW9kaWZpZWRfaW50ZXJjb20iO3M6MToiMCI7czo3OiJkZWxldGVkIjtzOjE6IjAiO3M6Nzoib3duZXJJZCI7czo1OiI5MDkyNSI7czo5OiJpbWdTb3VyY2UiO2I6MDtzOjE0OiJvYXV0aF9wcm92aWRlciI7czowOiIiO3M6OToib2F1dGhfdWlkIjtzOjA6IiI7czo1OiJ0X3VpZCI7czowOiIiO3M6NToiZl91aWQiO3M6MDoiIjtzOjQ6Im5hbWUiO3M6MzoiUmFvIjtzOjk6ImZpcnN0TmFtZSI7czozOiJSYW8iO3M6ODoibGFzdE5hbWUiO3M6MDoiIjtzOjc6ImVtYWlsSWQiO3M6MzE6ImhhcnBhbC55K1Rlc3RlcmFzYXNAdGFnZ2JveC5jb20iO3M6MTA6ImNvbnRhY3Rfbm8iO3M6MDoiIjtzOjEyOiJjb3VudHJ5X2NvZGUiO3M6MToiMCI7czo4OiJ1c2VybmFtZSI7czowOiIiO3M6ODoidXNlcl9rZXkiO3M6MzI6IjU2ZWY0NWZjYTE4MzA0MTI1YTRmMjcxNmZkNmZiMWMwIjtzOjEyOiJiaWxsaW5nRW1haWwiO3M6MDoiIjtzOjc6InBpY3R1cmUiO3M6MDoiIjtzOjEyOiJvcmdhbml6YXRpb24iO3M6MDoiIjtzOjg6ImluZHVzdHJ5IjtzOjA6IiI7czo0OiJyb2xlIjtzOjE6IjIiO3M6NjoiYWNjZXNzIjtzOjE6IjEiO3M6OToicmVzZXRDb2RlIjtzOjA6IiI7czozOiJ1dG0iO3M6MToiMCI7czoxMjoidXRtX2NhbXBhaWduIjtzOjA6IiI7czo2OiJzdGF0dXMiO3M6MToiMSI7czoxMToicGxhbl9leGNlZWQiO3M6MToiMSI7czoxNzoicGxhbl9leGNlZWRfZW1haWwiO3M6MToiMCI7czo5OiJ1Z2NTdGF0dXMiO3M6MToiMSI7czoxMzoiYWN0aXZlUHJvZHVjdCI7czoxOiI0IjtzOjEyOiJhY2Nlc3NfdG9rZW4iO3M6MDoiIjtzOjE1OiJyZXRhaW5Qb3N0UmVuZXciO3M6MToiMCI7czoxMDoicmVmZXJlUGFnZSI7czowOiIiO3M6MTQ6InJlZmVyZVBhZ2VMaW5rIjtzOjA6IiI7czoxMzoiaW50ZXJjb21ldGFncyI7czoxOiIwIjtzOjEwOiJleHRyYV9kYXRhIjtzOjYxOiJ7IndhbGxfY3JlYXRlZCI6dHJ1ZSwiZGlzcGxheV9zdGVwIjp0cnVlLCJjcmVhdGVkX2ZlZWQiOnRydWV9IjtzOjE1OiJpbnRlcmNvbWVVcGRhdGUiO3M6MToiMCI7czoxMjoid2Vla2x5RGlnZXN0IjtzOjE6IjAiO3M6MTA6ImludGVyY29tSWQiO3M6MDoiIjtzOjEyOiJmZWVkYmFja01haWwiO3M6MToiMCI7czoxNToiY29sbGFwc2VTaWRlYmFyIjtzOjE6IjAiO3M6ODoiaXNfdHJpYWwiO047fQ==",
-      setwidgetcookies = (i, o) => (e) => {
-        console.log("window.wallID", window.wallID);
-        var a = "https://test.taggbox.com/widget/walls/";
-        0 == window.wallID || "addWidget" == i
-          ? ((document.cookie = "taggboxAddWidget=1"),
-            (window.location.href = a),
-            console.log(a, "liveUrl"))
-          : (console.log("window.wallID", window.wallID, wallID, wallID),
-            wallID &&
-              (window.location.href =
-                "https://test.taggbox.com/widget/wall/" + o + "/" + wallID),
-            console.log(a, "Else-liveUrl"));
-      },
-      setwallcookies = (i) => {
-        if (wallID) {
-          c_name = "wallAction";
-          var o = new Date();
-          o.setDate(o.getDate() + 30);
-          var e = escape(i) + "; expires=" + o.toUTCString();
-          (document.cookie = c_name + "=" + e + ";path=/"),
-            (window.location.href =
-              "https://test.taggbox.com/widget/wall/index/" + wallID);
-        }
-      };
+        "YTo1Mjp7czoyOiJpZCI7czo1OiI5MDkyNSI7czo1OiJvd25lciI7czo1OiI5MDkyNSI7czo5OiJjcmVhdGVkQnkiO3M6MToiMCI7czo5OiJjcmVhdGVkQXQiO3M6MTA6IjE2NzE2MDc1NjMiO3M6NzoiY3JlYXRlZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjowMyI7czo4OiJ2ZXJpZmllZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjoxMiI7czo5OiJ1cGRhdGVkQnkiO3M6MToiMCI7czo5OiJ1cGRhdGVkQXQiO3M6MTA6IjE2NzE2MDc1NjMiO3M6MTA6Im1vZGlmaWVkQnkiO3M6MToiMCI7czo4OiJtb2RpZmllZCI7czoxOToiMjAyMi0xMi0yMSAxMjo1NjowMyI7czoxNzoibW9kaWZpZWRfaW50ZXJjb20iO3M6MToiMCI7czo3OiJkZWxldGVkIjtzOjE6IjAiO3M6Nzoib3duZXJJZCI7czo1OiI5MDkyNSI7czo5OiJpbWdTb3VyY2UiO2I6MDtzOjE0OiJvYXV0aF9wcm92aWRlciI7czowOiIiO3M6OToib2F1dGhfdWlkIjtzOjA6IiI7czo1OiJ0X3VpZCI7czowOiIiO3M6NToiZl91aWQiO3M6MDoiIjtzOjQ6Im5hbWUiO3M6MzoiUmFvIjtzOjk6ImZpcnN0TmFtZSI7czozOiJSYW8iO3M6ODoibGFzdE5hbWUiO3M6MDoiIjtzOjc6ImVtYWlsSWQiO3M6MzE6ImhhcnBhbC55K1Rlc3RlcmFzYXNAdGFnZ2JveC5jb20iO3M6MTA6ImNvbnRhY3Rfbm8iO3M6MDoiIjtzOjEyOiJjb3VudHJ5X2NvZGUiO3M6MToiMCI7czo4OiJ1c2VybmFtZSI7czowOiIiO3M6ODoidXNlcl9rZXkiO3M6MzI6IjU2ZWY0NWZjYTE4MzA0MTI1YTRmMjcxNmZkNmZiMWMwIjtzOjEyOiJiaWxsaW5nRW1haWwiO3M6MDoiIjtzOjc6InBpY3R1cmUiO3M6MDoiIjtzOjEyOiJvcmdhbml6YXRpb24iO3M6MDoiIjtzOjg6ImluZHVzdHJ5IjtzOjA6IiI7czo0OiJyb2xlIjtzOjE6IjIiO3M6NjoiYWNjZXNzIjtzOjE6IjEiO3M6OToicmVzZXRDb2RlIjtzOjA6IiI7czozOiJ1dG0iO3M6MToiMCI7czoxMjoidXRtX2NhbXBhaWduIjtzOjA6IiI7czo2OiJzdGF0dXMiO3M6MToiMSI7czoxMToicGxhbl9leGNlZWQiO3M6MToiMSI7czoxNzoicGxhbl9leGNlZWRfZW1haWwiO3M6MToiMCI7czo5OiJ1Z2NTdGF0dXMiO3M6MToiMSI7czoxMzoiYWN0aXZlUHJvZHVjdCI7czoxOiI0IjtzOjEyOiJhY2Nlc3NfdG9rZW4iO3M6MDoiIjtzOjE1OiJyZXRhaW5Qb3N0UmVuZXciO3M6MToiMCI7czoxMDoicmVmZXJlUGFnZSI7czowOiIiO3M6MTQ6InJlZmVyZVBhZ2VMaW5rIjtzOjA6IiI7czoxMzoiaW50ZXJjb21ldGFncyI7czoxOiIwIjtzOjEwOiJleHRyYV9kYXRhIjtzOjYxOiJ7IndhbGxfY3JlYXRlZCI6dHJ1ZSwiZGlzcGxheV9zdGVwIjp0cnVlLCJjcmVhdGVkX2ZlZWQiOnRydWV9IjtzOjE1OiJpbnRlcmNvbWVVcGRhdGUiO3M6MToiMCI7czoxMjoid2Vla2x5RGlnZXN0IjtzOjE6IjAiO3M6MTA6ImludGVyY29tSWQiO3M6MDoiIjtzOjEyOiJmZWVkYmFja01haWwiO3M6MToiMCI7czoxNToiY29sbGFwc2VTaWRlYmFyIjtzOjE6IjAiO3M6ODoiaXNfdHJpYWwiO047fQ==";
   </script>
 </html>
