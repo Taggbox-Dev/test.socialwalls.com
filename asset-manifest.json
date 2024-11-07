@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d36a98e8.css",
+    "main.css": "/static/css/main.fdc222f1.css",
     "main.js": "/static/js/main.bcad7c93.js",
     "pdfmake.js": "/static/js/pdfmake.7cce024d.chunk.js",
     "canvg.js": "/static/js/canvg.30568786.chunk.js",
@@ -83,7 +83,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d36a98e8.css",
+    "static/css/main.fdc222f1.css",
     "static/js/main.bcad7c93.js"
   ]
 }
