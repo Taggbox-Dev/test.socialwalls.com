@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dba58f2.css",
-    "main.js": "/static/js/main.cc333ecc.js",
+    "main.css": "/static/css/main.586cde41.css",
+    "main.js": "/static/js/main.27ce93c7.js",
     "pdfmake.js": "/static/js/pdfmake.7cce024d.chunk.js",
     "canvg.js": "/static/js/canvg.30568786.chunk.js",
     "xlsx.js": "/static/js/xlsx.7af0bf3f.chunk.js",
@@ -84,7 +84,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.2dba58f2.css",
-    "static/js/main.cc333ecc.js"
+    "static/css/main.586cde41.css",
+    "static/js/main.27ce93c7.js"
   ]
 }
