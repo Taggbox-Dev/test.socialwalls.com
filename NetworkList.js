@@ -219,4 +219,4 @@ export const NETWORK_LIST_API =[
       "createdAt": "2018-10-25T06:11:03.000Z",
       "updatedAt": "2018-10-25T06:11:03.000Z"
     }
-  ] 
+  ]
