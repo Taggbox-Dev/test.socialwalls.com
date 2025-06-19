@@ -1,0 +1,79 @@
+[
+  {
+    "label": "ALL",
+    "value": "ALL"
+  },
+  {
+    "label": "APPAREL AND ACCESSORIES",
+    "value": "APPAREL_AND_ACCESSORIES"
+  },
+  {
+    "label": "BABY KIDS AND MATERNITY",
+    "value": "BABY_KIDS_AND_MATERNITY"
+  },
+  {
+    "label": "BEAUTY AND PERSONAL CARE",
+    "value": "BEAUTY_AND_PERSONAL_CARE"
+  },
+   {
+    "label": "BUSINESS SERVICES",
+    "value": "BUSINESS_SERVICES"
+  },
+   {
+    "label": "EDUCATION",
+    "value": "EDUCATION"
+  },
+   {
+    "label": "FINANCIAL SERVICES",
+    "value": "FINANCIAL_SERVICES"
+  },
+   {
+    "label": "FOOD AND BEVERAGE",
+    "value": "FOOD_AND_BEVERAGE"
+  },
+   {
+    "label": "GAMES",
+    "value": "GAMES"
+  },
+   {
+    "label": "HEALTH",
+    "value": "HEALTH"
+  }
+  ,
+   {
+    "label": "HOME IMPROVEMENT",
+    "value": "HOME_IMPROVEMENT"
+  },
+   {
+    "label": "HOUSEHOLD PRODUCTS",
+    "value": "HOUSEHOLD_PRODUCTS"
+  },
+   {
+    "label": "LIFE SERVICES",
+    "value": "LIFE_SERVICES"
+  },
+   {
+    "label": "NEWS AND ENTERTAINMENT",
+    "value": "NEWS_AND_ENTERTAINMENT"
+  },
+   {
+    "label": "PETS",
+    "value": "PETS"
+  },
+   {
+    "label": "SPORTS AND OUTDOOR",
+    "value": "SPORTS_AND_OUTDOOR"
+  },
+   {
+    "label": "TECHNOLOGY",
+    "value": "TECHNOLOGY"
+  },
+   {
+    "label": "TRAVEL",
+    "value": "TRAVEL"
+  },
+   {
+    "label": "VEHICLE AND TRANSPORTATION",
+    "value": "VEHICLE_AND_TRANSPORTATION"
+  }
+]
