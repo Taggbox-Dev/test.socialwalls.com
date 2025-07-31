@@ -1,0 +1,359 @@
+[
+  {
+    "label": "all",
+    "value": "ALL"
+  },
+  {
+    "label": "apparel and accessories",
+    "value": "APPAREL_AND_ACCESSORIES",
+    "options": [
+      {
+        "label": "other fashion",
+        "value": "OTHER_FASHION"
+      },
+      {
+        "label": "outfits",
+        "value": "OUTFITS"
+      }
+    ]
+  },
+  {
+    "label": "baby kids and maternity",
+    "value": "BABY_KIDS_AND_MATERNITY",
+    "options": [
+      {
+        "label": "baby care",
+        "value": "BABY_CARE"
+      }
+    ]
+  },
+  {
+    "label": "beauty and personal care",
+    "value": "BEAUTY_AND_PERSONAL_CARE",
+    "options": [
+      {
+        "label": "beauty",
+        "value": "BEAUTY"
+      },
+      {
+        "label": "beauty services",
+        "value": "BEAUTY_SERVICES"
+      },
+      {
+        "label": "hair care",
+        "value": "HAIR_CARE"
+      },
+      {
+        "label": "other beauty",
+        "value": "OTHER_BEAUTY"
+      }
+    ]
+  },
+  {
+    "label": "business services",
+    "value": "BUSINESS_SERVICES",
+    "options": [
+      {
+        "label": "career and professional growth",
+        "value": "CAREER_AND_PROFESSIONAL_GROWTH"
+      }
+    ]
+  },
+  {
+    "label": "education",
+    "value": "EDUCATION",
+    "options": [
+      {
+        "label": "academic resources",
+        "value": "ACADEMIC_RESOURCES"
+      },
+      {
+        "label": "college",
+        "value": "COLLEGE"
+      },
+      {
+        "label": "history and literature",
+        "value": "HISTORY_AND_LITERATURE"
+      },
+      {
+        "label": "learning and development",
+        "value": "LEARNING_AND_DEVELOPMENT"
+      },
+      {
+        "label": "science",
+        "value": "SCIENCE"
+      }
+    ]
+  },
+  {
+    "label": "financial services",
+    "value": "FINANCIAL_SERVICES",
+    "options": [
+      {
+        "label": "business and finance",
+        "value": "BUSINESS_AND_FINANCE"
+      }
+    ]
+  },
+  {
+    "label": "food and beverage",
+    "value": "FOOD_AND_BEVERAGE",
+    "options": [
+      {
+        "label": "cooking",
+        "value": "COOKING"
+      },
+      {
+        "label": "drinks",
+        "value": "DRINKS"
+      },
+      {
+        "label": "eating experiences",
+        "value": "EATING_EXPERIENCES"
+      },
+      {
+        "label": "food",
+        "value": "FOOD"
+      },
+      {
+        "label": "food recommendations",
+        "value": "FOOD_RECOMMENDATIONS"
+      }
+    ]
+  },
+  {
+    "label": "games",
+    "value": "GAMES",
+    "options": [
+      {
+        "label": "card and board games",
+        "value": "CARD_AND_BOARD_GAMES"
+      },
+      {
+        "label": "video games",
+        "value": "VIDEO_GAMES"
+      }
+    ]
+  },
+  {
+    "label": "health",
+    "value": "HEALTH",
+    "options": [
+      {
+        "label": "health and wellness",
+        "value": "HEALTH_AND_WELLNESS"
+      }
+    ]
+  },
+  {
+    "label": "home improvement",
+    "value": "HOME_IMPROVEMENT",
+    "options": [
+      {
+        "label": "home and garden",
+        "value": "HOME_AND_GARDEN"
+      }
+    ]
+  },
+  {
+    "label": "household products",
+    "value": "HOUSEHOLD_PRODUCTS",
+    "options": [
+      {
+        "label": "toys collectibles and memorabilia",
+        "value": "TOYS_COLLECTIBLES_AND_MEMORABILIA"
+      }
+    ]
+  },
+  {
+    "label": "life services",
+    "value": "LIFE_SERVICES",
+    "options": [
+      {
+        "label": "crafting and creations",
+        "value": "CRAFTING_AND_CREATIONS"
+      },
+      {
+        "label": "diary and vlog",
+        "value": "DIARY_AND_VLOG"
+      },
+      {
+        "label": "environment",
+        "value": "ENVIRONMENT"
+      },
+      {
+        "label": "family",
+        "value": "FAMILY"
+      },
+      {
+        "label": "photography",
+        "value": "PHOTOGRAPHY"
+      },
+      {
+        "label": "productivity and efficiency",
+        "value": "PRODUCTIVITY_AND_EFFICIENCY"
+      }
+    ]
+  },
+  {
+    "label": "news and entertainment",
+    "value": "NEWS_AND_ENTERTAINMENT",
+    "options": [
+      {
+        "label": "animation and comics",
+        "value": "ANIMATION_AND_COMICS"
+      },
+      {
+        "label": "art",
+        "value": "ART"
+      },
+      {
+        "label": "comedy",
+        "value": "COMEDY"
+      },
+      {
+        "label": "community updates and issues",
+        "value": "COMMUNITY_UPDATES_AND_ISSUES"
+      },
+      {
+        "label": "culture",
+        "value": "CULTURE"
+      },
+      {
+        "label": "dance",
+        "value": "DANCE"
+      },
+      {
+        "label": "entertainment and sports news",
+        "value": "ENTERTAINMENT_AND_SPORTS_NEWS"
+      },
+      {
+        "label": "miscellaneous performances",
+        "value": "MISCELLANEOUS_PERFORMANCES"
+      },
+      {
+        "label": "movies and tv",
+        "value": "MOVIES_AND_TV"
+      },
+      {
+        "label": "music",
+        "value": "MUSIC"
+      },
+      {
+        "label": "performing arts",
+        "value": "PERFORMING_ARTS"
+      },
+      {
+        "label": "personal photography",
+        "value": "PERSONAL_PHOTOGRAPHY"
+      },
+      {
+        "label": "romance",
+        "value": "ROMANCE"
+      },
+      {
+        "label": "sensory experiences",
+        "value": "SENSORY_EXPERIENCES"
+      },
+      {
+        "label": "shows festivals and exhibitions",
+        "value": "SHOWS_FESTIVALS_AND_EXHIBITIONS"
+      },
+      {
+        "label": "special effects",
+        "value": "SPECIAL_EFFECTS"
+      },
+      {
+        "label": "sports",
+        "value": "SPORTS"
+      },
+      {
+        "label": "supernatural and horror",
+        "value": "SUPERNATURAL_AND_HORROR"
+      }
+    ]
+  },
+  {
+    "label": "pets",
+    "value": "PETS",
+    "options": [
+      {
+        "label": "pet care and accessories",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      },
+      {
+        "label": "livestock and farming",
+        "value": "LIVESTOCK_AND_FARMING"
+      },
+      {
+        "label": "wildlife and exotic pets",
+        "value": "WILDLIFE_AND_EXOTIC_PETS"
+      }
+    ]
+  },
+  {
+    "label": "sports and outdoor",
+    "value": "SPORTS_AND_OUTDOOR",
+    "options": [
+      {
+        "label": "conventional and mainstream sports",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      },
+      {
+        "label": "exercise and fitness",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      },
+      {
+        "label": "extreme and adventure sports",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      },
+      {
+        "label": "leisure and recreation facilities",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      },
+      {
+        "label": "outdoor recreation",
+        "value": "PET_CARE_AND_ACCESSORIES"
+      }
+    ]
+  },
+  {
+    "label": "technology",
+    "value": "TECHNOLOGY",
+    "options": [
+      {
+        "label": "gadgets and innovation",
+        "value": "GADGETS_AND_INNOVATION"
+      },
+      {
+        "label": "software and apps",
+        "value": "SOFTWARE_AND_APPS"
+      }
+    ]
+  },
+  {
+    "label": "travel",
+    "value": "TRAVEL",
+    "options": [
+      {
+        "label": "general travel",
+        "value": "GENERAL_TRAVEL"
+      }
+    ]
+  },
+  {
+    "label": "vehicle and transportation",
+    "value": "VEHICLE_AND_TRANSPORTATION",
+    "isDisabled": true,
+    "options": [
+      {
+        "label": "automotive",
+        "value": "AUTOMOTIVE"
+      },
+      {
+        "label": "other transportation",
+        "value": "OTHER_TRANSPORTATION"
+      }
+    ]
+  }
+]
